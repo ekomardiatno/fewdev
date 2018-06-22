@@ -42,7 +42,8 @@
     font-variant: normal!important;
     text-transform: none!important;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: bottom;
 }
 
 .icon-antivirus:before {
