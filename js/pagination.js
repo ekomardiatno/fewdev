@@ -45,10 +45,3 @@ function finddatepost(a) {
 }
 var nopage, jenis, nomerhal, lblname1;
 halamanblogger();
-
-$('.showpageOf').remove();
-
-$('.blog-pager').ready({
-    var a = this.lastChild;
-    alert(a);
-});
