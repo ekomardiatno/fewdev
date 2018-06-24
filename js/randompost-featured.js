@@ -1,8 +1,3 @@
-/*var randomposts_number = 3;
-var randomposts_chars = 110;
-var randomposts_details = 1;
-var randomposts_comments = 'Comments';
-var randomposts_commentsd = 'Comments Disabled';*/
 var randomposts_current = [], total_randomposts = 0, randomposts_current = new Array(randomposts_number);
 
 function randomposts(json) {
@@ -86,3 +81,7 @@ getvalue();
 for (var i = 0; i < randomposts_number; i++) {
     $('.randp-wrapper').append('<script type=\"text/javascript\" src=\"/feeds/posts/default?alt=json-in-script&start-index=' + randomposts_current[i] + '&max-results=1&callback=random_posts\"><\/script>')
 }
+
+$(window).on('load',function(){
+    $('.randp-wrapper').addClass('show-ct');
+})
