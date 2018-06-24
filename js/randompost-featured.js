@@ -2,10 +2,8 @@
 var randomposts_chars = 110;
 var randomposts_details = 1;
 var randomposts_comments = 'Comments';
-var randomposts_commentsd = 'Comments Disabled';
-var randomposts_current = [];
-var total_randomposts = 0;
-var randomposts_current = new Array(randomposts_number);*/
+var randomposts_commentsd = 'Comments Disabled';*/
+var randomposts_current = [], total_randomposts = 0, randomposts_current = new Array(randomposts_number);
 
 function randomposts(json) {
     total_randomposts = json.feed.openSearch$totalResults.$t
