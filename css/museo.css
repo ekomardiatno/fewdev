@@ -1,0 +1,21 @@
+/*Museo Font*/
+@font-face {
+    font-family: Museo;
+    src: url(../assets/fonts/museo_300.woff2) format("woff2");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Museo;
+    src: url(../assets/fonts/museo_500.woff2) format("woff2");
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Museo;
+    src: url(../assets/fonts/museo_700.woff2) format("woff2");
+    font-weight: 700;
+    font-style: normal
+}

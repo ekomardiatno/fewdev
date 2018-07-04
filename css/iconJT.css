@@ -1,0 +1,390 @@
+/*Icon JT*/
+@font-face {
+    font-family: iconJT;
+    src: url(../assets/fonts/iconJT.eot);
+    src: url(../assets/fonts/iconJT.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/iconJT.woff) format("woff"), url(../assets/fonts/iconJT.ttf) format("truetype"), url(../assets/fonts/iconJT.svg#untitled-font-7) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+[data-icon]:before {
+    content: attr(data-icon)
+}
+
+[class*=" icon-"]:before,
+[class^=icon-]:before,
+[data-icon]:before {
+    display: inline-block;
+    font-family: iconJT!important;
+    font-style: normal!important;
+    font-weight: 400!important;
+    font-variant: normal!important;
+    text-transform: none!important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: bottom;
+}
+
+.icon-antivirus:before {
+    content: "\E000"
+}
+
+.icon-download-manager:before {
+    content: "\E007"
+}
+
+.icon-drivers-smartphone:before {
+    content: "\E008"
+}
+
+.icon-office-bussines:before {
+    content: "\E00B"
+}
+
+.icon-photo-imaging:before {
+    content: "\E00C"
+}
+
+.icon-arrow-left:before {
+    content: "\E001"
+}
+
+.icon-arrow-right:before {
+    content: "\E002"
+}
+
+.icon-bbm:before {
+    content: "\E003"
+}
+
+.icon-close:before {
+    content: "\E004"
+}
+
+.icon-fb:before {
+    content: "\E005"
+}
+
+.icon-g:before {
+    content: "\E006"
+}
+
+.icon-home-breadcrumb:before {
+    content: "\E009"
+}
+
+.icon-ig:before {
+    content: "\E00D"
+}
+
+.icon-jt-simple:before {
+    content: "\E00E"
+}
+
+.icon-like:before {
+    content: "\E00F"
+}
+
+.icon-line:before {
+    content: "\E010"
+}
+
+.icon-linkedin:before {
+    content: "\E011"
+}
+
+.icon-mail:before {
+    content: "\E012"
+}
+
+.icon-playstore:before {
+    content: "\E013"
+}
+
+.icon-rss:before {
+    content: "\E014"
+}
+
+.icon-search:before {
+    content: "\E015"
+}
+
+.icon-shield-check:before {
+    content: "\E016"
+}
+
+.icon-star:before {
+    content: "\E017"
+}
+
+.icon-time:before {
+    content: "\E018"
+}
+
+.icon-tulis:before {
+    content: "\E019"
+}
+
+.icon-wa:before {
+    content: "\E01A"
+}
+
+.icon-windows:before {
+    content: "\E01B"
+}
+
+.icon-youtube:before {
+    content: "\E01C"
+}
+
+.icon-android:before {
+    content: "\E00A"
+}
+
+.icon-dislike:before {
+    content: "\E01D"
+}
+
+.icon-networking:before {
+    content: "\E01E"
+}
+
+.icon-twitter:before {
+    content: "\E01F"
+}
+
+.icon-upload:before {
+    content: "\E020"
+}
+
+.icon-utilities:before {
+    content: "\E021"
+}
+
+.icon-user:before {
+    content: "\E022"
+}
+
+.icon-video-audio:before {
+    content: "\E023"
+}
+
+.icon-productivity:before {
+    content: "\E024"
+}
+
+.icon-file-transfer:before {
+    content: "\E025"
+}
+
+.icon-arrow-breadcrumb:before {
+    content: "\E026"
+}
+
+.icon-benchmarking:before {
+    content: "\E027"
+}
+
+.icon-browser:before {
+    content: "\E028"
+}
+
+.icon-cleaning:before {
+    content: "\E029"
+}
+
+.icon-social-messaging:before {
+    content: "\E02A"
+}
+
+.icon-system-tuning:before {
+    content: "\E02B"
+}
+
+.icon-compression:before {
+    content: "\E02C"
+}
+
+.icon-desktop:before {
+    content: "\E02D"
+}
+
+.icon-developer-tool:before {
+    content: "\E02E"
+}
+
+.icon-gokil:before {
+    content: "\E02F"
+}
+
+.icon-games:before {
+    content: "\E030"
+}
+
+.icon-gadget:before {
+    content: "\E031"
+}
+
+.icon-news:before {
+    content: "\E032"
+}
+
+.icon-tips:before {
+    content: "\E033"
+}
+
+.icon-software:before {
+    content: "\E034"
+}
+
+.icon-show-eye:before {
+    content: "\E035"
+}
+
+.icon-download:before {
+    content: "\E036"
+}
+
+.icon-hide-eye:before {
+    content: "\E037"
+}
+
+.icon-arcade:before {
+    content: "\E038"
+}
+
+.icon-pendidikan:before {
+    content: "\E039"
+}
+
+.icon-olahraga:before {
+    content: "\E03A"
+}
+
+.icon-pertualangan:before {
+    content: "\E03C"
+}
+
+.icon-strategi:before {
+    content: "\E03D"
+}
+
+.icon-teka-teki:before {
+    content: "\E03E"
+}
+
+.icon-trivia:before {
+    content: "\E03F"
+}
+
+.icon-rpg:before {
+    content: "\E040"
+}
+
+.icon-kata-kata:before {
+    content: "\E041"
+}
+
+.icon-kasino:before {
+    content: "\E042"
+}
+
+.icon-kartu:before {
+    content: "\E043"
+}
+
+.icon-balapan:before {
+    content: "\E044"
+}
+
+.icon-musik:before {
+    content: "\E045"
+}
+
+.icon-shooting:before {
+    content: "\E046"
+}
+
+.icon-simulasi:before {
+    content: "\E03B"
+}
+
+.icon-logo-jt:before {
+    content: "\E047"
+}
+
+.icon-kategori:before {
+    content: "\E048"
+}
+
+.icon-filter:before {
+    content: "\E049"
+}
+
+.icon-link:before {
+    content: "\E04A"
+}
+
+.icon-more:before {
+    content: "\E04B"
+}
+
+.icon-no-ad:before {
+    content: "\E04C"
+}
+
+.icon-bookmark:before {
+    content: "\E04D"
+}
+
+.icon-age:before {
+    content: "\E04E"
+}
+
+.icon-cloth:before {
+    content: "\E04F"
+}
+
+.icon-gender:before {
+    content: "\E050"
+}
+
+.icon-salary:before {
+    content: "\E051"
+}
+
+.icon-language:before {
+    content: "\E052"
+}
+
+.icon-pencil:before {
+    content: "\E053"
+}
+
+.icon-delete:before {
+    content: "\E054"
+}
+
+.icon-faq:before {
+    content: "\E055"
+}
+
+.icon-gear:before {
+    content: "\E056"
+}
+
+.icon-transaksi:before {
+    content: "\E057"
+}
+
+.icon-my-article:before {
+    content: "\E058"
+}
+
+.icon-logout:before {
+    content: "\E059"
+}
+
+.icon-karya-ind:before {
+    content: "\E05A"
+}
