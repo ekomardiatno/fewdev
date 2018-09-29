@@ -1,0 +1,384 @@
+@font-face {
+    font-family: "JT-Icon";
+    src: url(../assets/fonts/jalantikus-iconpack.eot);
+    src: url(../assets/fonts/jalantikus-iconpack.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/jalantikus-iconpack.woff) format("woff"), url(../assets/fonts/jalantikus-iconpack.ttf) format("truetype"), url(../assets/fonts/jalantikus-iconpack.svg#untitled-font-7) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+.jt {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-family: "JT-Icon"!important;
+    font-weight: 400!important;
+    vertical-align: top
+}
+
+.jt-antivirus:before {
+    content: "\E000"
+}
+
+.jt-download-manager:before {
+    content: "\E007"
+}
+
+.jt-drivers-smartphone:before {
+    content: "\E008"
+}
+
+.jt-office-bussines:before {
+    content: "\E00B"
+}
+
+.jt-photo-imaging:before {
+    content: "\E00C"
+}
+
+.jt-arrow-left:before {
+    content: "\E001"
+}
+
+.jt-arrow-right:before {
+    content: "\E002"
+}
+
+.jt-bbm:before {
+    content: "\E003"
+}
+
+.jt-close:before {
+    content: "\E004"
+}
+
+.jt-fb:before {
+    content: "\E005"
+}
+
+.jt-g:before {
+    content: "\E006"
+}
+
+.jt-home-breadcrumb:before {
+    content: "\E009"
+}
+
+.jt-ig:before {
+    content: "\E00D"
+}
+
+.jt-jt-simple:before {
+    content: "\E00E"
+}
+
+.jt-like:before {
+    content: "\E00F"
+}
+
+.jt-line:before {
+    content: "\E010"
+}
+
+.jt-linkedin:before {
+    content: "\E011"
+}
+
+.jt-mail:before {
+    content: "\E012"
+}
+
+.jt-playstore:before {
+    content: "\E013"
+}
+
+.jt-rss:before {
+    content: "\E014"
+}
+
+.jt-search:before {
+    content: "\E015"
+}
+
+.jt-shield-check:before {
+    content: "\E016"
+}
+
+.jt-star:before {
+    content: "\E017"
+}
+
+.jt-time:before {
+    content: "\E018"
+}
+
+.jt-tulis:before {
+    content: "\E019"
+}
+
+.jt-wa:before {
+    content: "\E01A"
+}
+
+.jt-windows:before {
+    content: "\E01B"
+}
+
+.jt-youtube:before {
+    content: "\E01C"
+}
+
+.jt-android:before {
+    content: "\E00A"
+}
+
+.jt-dislike:before {
+    content: "\E01D"
+}
+
+.jt-networking:before {
+    content: "\E01E"
+}
+
+.jt-twitter:before {
+    content: "\E01F"
+}
+
+.jt-upload:before {
+    content: "\E020"
+}
+
+.jt-utilities:before {
+    content: "\E021"
+}
+
+.jt-user:before {
+    content: "\E022"
+}
+
+.jt-video-audio:before {
+    content: "\E023"
+}
+
+.jt-productivity:before {
+    content: "\E024"
+}
+
+.jt-file-transfer:before {
+    content: "\E025"
+}
+
+.jt-arrow-breadcrumb:before {
+    content: "\E026"
+}
+
+.jt-benchmarking:before {
+    content: "\E027"
+}
+
+.jt-browser:before {
+    content: "\E028"
+}
+
+.jt-cleaning:before {
+    content: "\E029"
+}
+
+.jt-social-messaging:before {
+    content: "\E02A"
+}
+
+.jt-system-tuning:before {
+    content: "\E02B"
+}
+
+.jt-compression:before {
+    content: "\E02C"
+}
+
+.jt-desktop:before {
+    content: "\E02D"
+}
+
+.jt-developer-tool:before {
+    content: "\E02E"
+}
+
+.jt-gokil:before {
+    content: "\E02F"
+}
+
+.jt-games:before {
+    content: "\E030"
+}
+
+.jt-gadget:before {
+    content: "\E031"
+}
+
+.jt-news:before {
+    content: "\E032"
+}
+
+.jt-tips:before {
+    content: "\E033"
+}
+
+.jt-software:before {
+    content: "\E034"
+}
+
+.jt-show-eye:before {
+    content: "\E035"
+}
+
+.jt-download:before {
+    content: "\E036"
+}
+
+.jt-hide-eye:before {
+    content: "\E037"
+}
+
+.jt-arcade:before {
+    content: "\E038"
+}
+
+.jt-pendidikan:before {
+    content: "\E039"
+}
+
+.jt-olahraga:before {
+    content: "\E03A"
+}
+
+.jt-pertualangan:before {
+    content: "\E03C"
+}
+
+.jt-strategi:before {
+    content: "\E03D"
+}
+
+.jt-teka-teki:before {
+    content: "\E03E"
+}
+
+.jt-trivia:before {
+    content: "\E03F"
+}
+
+.jt-rpg:before {
+    content: "\E040"
+}
+
+.jt-kata-kata:before {
+    content: "\E041"
+}
+
+.jt-kasino:before {
+    content: "\E042"
+}
+
+.jt-kartu:before {
+    content: "\E043"
+}
+
+.jt-balapan:before {
+    content: "\E044"
+}
+
+.jt-musik:before {
+    content: "\E045"
+}
+
+.jt-shooting:before {
+    content: "\E046"
+}
+
+.jt-simulasi:before {
+    content: "\E03B"
+}
+
+.jt-logo-jt:before {
+    content: "\E047"
+}
+
+.jt-kategori:before {
+    content: "\E048"
+}
+
+.jt-filter:before {
+    content: "\E049"
+}
+
+.jt-link:before {
+    content: "\E04A"
+}
+
+.jt-more:before {
+    content: "\E04B"
+}
+
+.jt-no-ad:before {
+    content: "\E04C"
+}
+
+.jt-bookmark:before {
+    content: "\E04D"
+}
+
+.jt-age:before {
+    content: "\E04E"
+}
+
+.jt-cloth:before {
+    content: "\E04F"
+}
+
+.jt-gender:before {
+    content: "\E050"
+}
+
+.jt-salary:before {
+    content: "\E051"
+}
+
+.jt-language:before {
+    content: "\E052"
+}
+
+.jt-pencil:before {
+    content: "\E053"
+}
+
+.jt-delete:before {
+    content: "\E054"
+}
+
+.jt-faq:before {
+    content: "\E055"
+}
+
+.jt-gear:before {
+    content: "\E056"
+}
+
+.jt-transaksi:before {
+    content: "\E057"
+}
+
+.jt-my-article:before {
+    content: "\E058"
+}
+
+.jt-logout:before {
+    content: "\E059"
+}
+
+.jt-karya-ind:before {
+    content: "\E05A"
+}
