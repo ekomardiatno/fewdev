@@ -12,6 +12,8 @@
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    vertical-align: middle
 }
 
 .jt-antivirus:before {
