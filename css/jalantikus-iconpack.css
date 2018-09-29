@@ -6,11 +6,18 @@
 }
 
 .jt {
-    font-family: JT-Icon;
-    font-size: inherit;
-    font-weight: normal;
-    font-style: normal;
-    text-rendering: auto;
+    display: inline-block;
+    vertical-align: top
+}
+
+.jt:before {
+    font-family: JT-icon!important;
+    font-style: normal!important;
+    font-weight: 400!important;
+    font-variant: normal!important;
+    text-transform: none!important;
+    speak: none;
+    vertical-align: top;
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
