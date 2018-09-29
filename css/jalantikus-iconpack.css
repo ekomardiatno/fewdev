@@ -15,6 +15,8 @@
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    padding-top: .12rem;
+    vertical-align: top;
 }
 
 .jt-antivirus:before {
